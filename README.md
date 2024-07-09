@@ -4,6 +4,9 @@
 
 This experiment was conducted on paired layout Whole Genome Bisulfite Sequencing (WGBS) data retrieved from the National Center for Biotechnology Information (NCBI) under the filenames SRR5836475, SRR5836476, SRR3824222, and SRR5836479. The data originates from research outlined in the article titled “Epigenetic restriction of extraembryonic lineages mirrors the somatic transition to cancer.” Employing the Illumina HiSeq 2000 platform with a Bisulfite-Seq strategy.
 
+## Early Embryonic Development of Mouse
+![Embryonic Development](early_embryonic_development.png)
+
 *Note: It is important to state that the mapping for this experiment was limited to mouse chr18.*
 
 ## Brief Sample Description
@@ -49,3 +52,12 @@ The above samples were used to experiment with methylation of WGBS data (whole g
 
 
 ## Analysis Workflow
+![Analysis Workflow](img/workflow.png)
+
+## Analysis Pipeline
+![Pipeline](WGBSpngPipeline.png)
+
+## Differential Methylation Regions (DMRs) Analysis
+![DMRs](img/differential_analysis.png)
+
+*Further explanations provided in the [detailed report](WGBS_analysis_report.pdf).
